@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1708721189413" clover="3.2.0">
-  <project timestamp="1708721189414" name="All files">
-    <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="5" coveredelements="5" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
-    <file name="index.ts" path="/home/gustavo/Documents/leet_code/src/problems/index.ts">
-      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="2" count="1" type="stmt"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="4" count="5" type="stmt"/>
-      <line num="6" count="1" type="stmt"/>
+<coverage generated="1708881520469" clover="3.2.0">
+  <project timestamp="1708881520469" name="All files">
+    <metrics statements="28" coveredstatements="28" conditionals="10" coveredconditionals="8" methods="5" coveredmethods="5" elements="43" coveredelements="41" complexity="0" loc="28" ncloc="28" packages="1" files="2" classes="2"/>
+    <file name="1_Two_Sum.ts" path="/home/gustavo/Documents/leet_code/src/problems/1_Two_Sum.ts">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="13" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="19" count="3" type="stmt"/>
+    </file>
+    <file name="2_Add_Two_Numbers.ts" path="/home/gustavo/Documents/leet_code/src/problems/2_Add_Two_Numbers.ts">
+      <metrics statements="22" coveredstatements="22" conditionals="6" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <line num="15" count="17" type="cond" truecount="1" falsecount="1"/>
+      <line num="16" count="17" type="cond" truecount="1" falsecount="1"/>
+      <line num="20" count="61" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="8" type="stmt"/>
+      <line num="23" count="53" type="stmt"/>
+      <line num="24" count="53" type="stmt"/>
+      <line num="25" count="53" type="stmt"/>
+      <line num="28" count="8" type="stmt"/>
+      <line num="29" count="53" type="stmt"/>
+      <line num="31" count="8" type="stmt"/>
+      <line num="32" count="8" type="stmt"/>
+      <line num="35" count="4" type="stmt"/>
+      <line num="36" count="4" type="stmt"/>
+      <line num="37" count="4" type="stmt"/>
+      <line num="38" count="17" type="stmt"/>
+      <line num="40" count="4" type="stmt"/>
+      <line num="41" count="4" type="stmt"/>
+      <line num="42" count="4" type="stmt"/>
+      <line num="43" count="4" type="stmt"/>
+      <line num="44" count="13" type="stmt"/>
+      <line num="45" count="13" type="stmt"/>
+      <line num="47" count="4" type="stmt"/>
     </file>
   </project>
 </coverage>
